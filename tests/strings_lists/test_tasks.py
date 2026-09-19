@@ -1,6 +1,6 @@
 import pytest
 
-from tasks.strings_lists import (
+from tasks.strings_lists.tasks import (
     capitalize_words,
     char_freq,
     common,
